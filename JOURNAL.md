@@ -126,7 +126,7 @@ Exporting prod files (gerber, drill, bom csv) was quite similar to how it is on 
 
 **Total time spent: 0.4 hours**
 
-# August 17, 2026: 
+# August 17, 2026: Final touches
 
 One thing I forgot to do earlier was add stitching vias for the GND plane, but after doing that I realized that my vias had thermal reliefs (which idk how I didn't really notice until now). 
 
