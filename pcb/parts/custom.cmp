@@ -1,0 +1,26 @@
+Component Name : TYPE-C_16PIN_2MD_073
+
+Part Count : 2
+
+Part : J?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : J?
+     Pins - (Normal) : 14
+          GND            A1B12          Passive
+          VBUS           A4B9           Passive
+          SBU2           B8             Passive
+          CC1            A5             Passive
+          Dn2            B7             Passive
+          Dp1            A6             Passive
+          Dn1            A7             Passive
+          Dp2            B6             Passive
+          SBU1           A8             Passive
+          CC2            B5             Passive
+          VBUS           B4A9           Passive
+          GND            B1A12          Passive
+          EH             14             Passive
+          EH             13             Passive
+          Hidden Pins : 
+
