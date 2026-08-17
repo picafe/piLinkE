@@ -1,4 +1,4 @@
-# WCH-LinkE
+# piLinkE
 
 A compact USB-C clone of WCH's [WCH-LinkE](https://www.wch.cn/products/WCH-Link.html) debugger, designed in Altium. It programs and debugs WCH RISC-V MCUs over SWD, can be switched into DAPLink / ARM SWD mode, and has a USB-UART.
 
