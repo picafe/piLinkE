@@ -17,7 +17,7 @@ I wanted an excuse to use Altium so I made this, which I consider to be a relati
 
 *Full 3D model of the board.*
 
-![Schematic](images/X2_Oe18s7oOZy.png)
+![Schematic](images/WCHLinkE-sch.png)
 
 *Schematic.*
 
