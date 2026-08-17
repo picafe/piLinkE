@@ -80,7 +80,7 @@ This was the guide I followed and it was very helpful: https://www.youtube.com/w
 
 **Total time spent: 5 hours**
 
-# July 28, 2026: Routed most of the board
+# July 29, 2026: Routed most of the board
 
 I started (and basically finished) most of the routing for the board, although there is still quite a bit of work to be done. I still need to route the power traces, planes, and some other minor things. I also had to search on how to adjust the board outline, but it was fairly simple. I did this while crammed in the middle seat of a plane so I wasn't the most efficient with my trackpad.
 
@@ -88,7 +88,7 @@ I started (and basically finished) most of the routing for the board, although t
 
 **Total time spent: 3 hours**
 
-# August 14, 2026: Routed power and filled copper planes
+# August 10, 2026: Routed power and filled copper planes
 
 I started with routing the power traces, and then moved on to planes which was a bit harder than I thought. I got ground planes to work (or at least I thought) but local polygons inside the ground plane didn't seem to fill. After some searching, I used the polygon manager to order based on fill priority, change the property to fill over all items with the same net, and then force refill all the polygons. I also used this to duplicate the GND plane and move it to the GND layer and bottom layer.
 
@@ -100,7 +100,7 @@ After that, the PCB finally looked almost finished:
 
 **Total time spent: 1.2 hours**
 
-# August 15, 2026: Ran DRC and added silkscreen
+# August 14, 2026: Ran DRC and added silkscreen
 
 I ran DRC for the first time, which was quite interesting. Other than a few stray traces, the only errors seemed to be spam from me not setting proper values in the rules manager correctly, except I had pretty much no idea what the rule violations were. 
 
@@ -116,7 +116,7 @@ After that, I started adding things on the silkscreen; some labels to the board 
 
 **Total time spent: 1.5 hours**
 
-# August 16, 2026: Exported production files
+# August 15, 2026: Exported production files
 
 Exporting prod files (gerber, drill, bom csv) was quite similar to how it is on KiCad if you do it manually (without the JLCPCB production file extension). Took me a bit to do since JLC doesn't support gerber X2 exports, which is what the youtube guide told me to do. 
 
@@ -126,7 +126,7 @@ Exporting prod files (gerber, drill, bom csv) was quite similar to how it is on 
 
 **Total time spent: 0.4 hours**
 
-# August 17, 2026: Final touches
+# August 16, 2026: Final touches
 
 One thing I forgot to do earlier was add stitching vias for the GND plane, but after doing that I realized that my vias had thermal reliefs (which idk how I didn't really notice until now). 
 
