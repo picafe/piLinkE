@@ -90,7 +90,7 @@ After the stock LinkE firmware is on the board, use [WCH-LinkUtility](https://ww
 
 ## Bill of materials
 
-Prices are rough LCSC small-qty estimates (Aug 2026) and will move. They do not include PCB, assembly, shipping, or the JST-SH cable.
+Prices are rough LCSC estimates (Aug 2026) and will move. They do not include the JST-SH cable.
 
 | Designator | Value | Footprint | Qty | LCSC | Unit cost (est.) | Line total (est.) |
 | --- | --- | --- | ---: | --- | ---: | ---: |
