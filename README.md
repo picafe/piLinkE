@@ -15,7 +15,7 @@ I wanted an excuse to use Altium so I made this, which I consider to be a relati
 
 ![3D model](images/X2_hhQaoQac5M.png)
 
-*Full 3D model of the board.*
+*3D model.*
 
 ![Schematic](images/WCHLinkE-sch.png)
 
@@ -114,3 +114,5 @@ Prices are rough LCSC estimates (Aug 2026) and will move. They do not include th
 | U5 | USBLC6-2SC6 | SOT-23-6 | 1 | [C2827654](https://www.lcsc.com/product-detail/C2827654.html) | $0.04 | $0.04 |
 | Y1 | 12 MHz | 3225 | 1 | [C9002](https://www.lcsc.com/product-detail/C9002.html) | $0.10 | $0.10 |
 | | | | | **Total (components only)** | | **~$3.43** |
+
+The PCB + stencil cost is around $10 on JLCPCB.
