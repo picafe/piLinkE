@@ -1,5 +1,7 @@
 # piLinkE
 
+![alt text](images/1000010311.jpg)
+
 A compact USB-C clone of WCH's [WCH-LinkE](https://www.wch.cn/products/WCH-Link.html) debugger, designed in Altium. It programs and debugs WCH RISC-V MCUs over SWD, can be switched into DAPLink / ARM SWD mode, and has a USB-UART.
 
 This is my own version, on a 4-layer PCB meant to be cheap to manufacture at JLCPCB, with more specific features.
@@ -28,6 +30,14 @@ I wanted an excuse to use Altium so I made this, which I consider to be a relati
 ![PCB back](images/X2_YbBHT60iJx.png)
 
 *PCB layout back*
+
+![PCB with paste and placed components](images/1000010272.jpg)
+
+*PCB with paste and placed components.*
+
+![Reflowed PCB](images/1000010275.jpg)
+
+*Reflowed PCB.*
 
 ## Connections
 
